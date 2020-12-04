@@ -4,8 +4,8 @@
 # AutoBuild Actions
 
 Diy_Core() {
-Author=Hyy2001
-Default_Device=d-team_newifi-d2
+Author=Rithard
+Default_Device=QNAP_NEWWIFI-D2
 }
 
 Diy-Part1() {
