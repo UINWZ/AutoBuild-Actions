@@ -4,7 +4,7 @@
 # AutoUpdate
 
 Version=V4.1
-DEFAULT_DEVICE=d-team_newifi-d2
+DEFAULT_DEVICE=QNAP_NEWWIFI-D2
 Github=https://github.com/Hyy2001X/AutoBuild-Actions
 
 TIME() {
